@@ -1,0 +1,14 @@
+# Node.js modules
+node_modules/
+
+# Build output
+build/
+
+# Truffle artifacts
+build/contracts/
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
